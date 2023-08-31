@@ -1,0 +1,13 @@
+package org.example.panels;
+
+public enum SubPanelType {
+    AUTH_PANEL,
+    REG_PANEL,
+    GUEST_WARNING_PANEL,
+    BLOCK_PANEL,
+    STORE_PRODUCTS_PANEL,
+    CART_PRODUCTS_PANEL,
+    PRODUCT_INFO_PANEL,
+    SEARCH_PANEL,
+    SEARCH_OPTIONS_PANEL
+}
